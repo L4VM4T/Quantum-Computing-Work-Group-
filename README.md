@@ -1,7 +1,9 @@
-# Quantum Computing Workgroup 
-Repository of the Quantum Computing Workgroup, 2023.
+# Quantum Computing Work group 
+Repository of the Quantum Computing Work group, 2023.
 
 # Introduction
+This is the repository of the work group formed by the following members:
+
 # Structure
 + Chat-Based Group: A localized group where you can always ask questions and work through problems. We can work together to help each other through the learning process. (Meetings not necessary)
 + Book Club: We choose a book and have set chapters every week/month/etc. that we will read and then discuss during a meeting.
