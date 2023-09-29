@@ -1,5 +1,5 @@
-# Quantum Computing Work group 
-Repository of the Quantum Computing Work group, 2023.
+# Quantum Computing Work Group 
+Repository of the Quantum Computing Work Group, 2023.
 
 # Introduction
 This is the repository of the work group formed by the following members:
