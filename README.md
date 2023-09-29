@@ -11,5 +11,4 @@ Repository of the Quantum Computing Workgroup, 2023.
 # Roadmap
   
 # Resources
-[Qiskit Textbook](https://qiskit.org/learn)
-**A university quantum algorithms/computation course supplement based on Qiskit.**
+[Qiskit Textbook](https://qiskit.org/learn) - A university quantum algorithms/computation course supplement based on Qiskit.
