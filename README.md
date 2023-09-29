@@ -11,7 +11,7 @@ Repository of the Quantum Computing Workgroup, 2023.
 # Roadmap
   | MM/DD | Description |
 | --- | --- |
-| 10/01-10/07 | Meeting to discuss Qiskit Textbook - Chapter 1 |
+| 10/07 | Meeting to discuss Qiskit Textbook - Chapter 1 |
 
 # Resources
 [Qiskit Textbook](https://qiskit.org/learn) - A university quantum algorithms/computation course supplement based on Qiskit.
