@@ -2,7 +2,7 @@
 Repository of the Quantum Computing Work Group, 2023.
 
 # Introduction
-This is the repository of the work group formed by Sam, Hanah, Fredrick, Greed and Laura, in 2023.
+This is the repository of the work group formed by Sam, Hanah, Fredrick, Ashish, Greed and Laura, in 2023.
 
 # Structure
 + Chat-Based Group: A localized group where you can always ask questions and work through problems. We can work together to help each other through the learning process. (Meetings not necessary)
