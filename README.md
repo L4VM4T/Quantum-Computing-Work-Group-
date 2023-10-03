@@ -13,7 +13,7 @@ This is the repository of the work group formed by Sam, Hanah, Fredrick, Ashish,
 # Roadmap
   | MM/DD | Description |
 | --- | --- |
-| 10/07 | Meeting to discuss Qiskit Textbook - [Chapter 1](https://learn.qiskit.org/course/introduction/why-quantum-computing) |
+| 10/07 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 1. Why Quantum Computing?](https://learn.qiskit.org/course/introduction/why-quantum-computing) |
 
 # Resources
 [Qiskit Textbook](https://qiskit.org/learn) - A university quantum algorithms/computation course supplement based on Qiskit.
