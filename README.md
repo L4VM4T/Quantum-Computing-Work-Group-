@@ -2,7 +2,7 @@
 Repository of the Quantum Computing Work Group, 2023.
 
 # Introduction
-This is the repository of the work group formed by Sam, Hanah, Fredrick, Ashish, Greed, Nikita and Laura, in 2023.
+This is the repository of the work group formed by Sam, Hanah, Fredrick, Ashish, Greed, Nikita, Edward and Laura, in 2023.
 
 # Structure
 + Chat-Based Group: A localized group where you can always ask questions and work through problems. We can work together to help each other through the learning process. (Meetings not necessary)
@@ -14,6 +14,7 @@ This is the repository of the work group formed by Sam, Hanah, Fredrick, Ashish,
   | MM/DD | Description |
 | --- | --- |
 | 10/07 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 1. Why Quantum Computing?](https://learn.qiskit.org/course/introduction/why-quantum-computing) |
+| 10/14 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 2. The Atoms Of Computation](https://learn.qiskit.org/course/introduction/the-atoms-of-computation) |
 
 # Resources
 [Qiskit Textbook](https://qiskit.org/learn) - A university quantum algorithms/computation course supplement based on Qiskit.
