@@ -15,7 +15,10 @@ This is the repository of the work group formed by Sam, Hanah, Fredrick, Ashish,
 | --- | --- |
 | 10/07 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 1. Why Quantum Computing?](https://learn.qiskit.org/course/introduction/why-quantum-computing) |
 | 10/14 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 2. The Atoms Of Computation](https://learn.qiskit.org/course/introduction/the-atoms-of-computation) |
-| 10/21 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 3. What Is Quantum?](https://learn.qiskit.org/course/introduction/what-is-quantum#what-5-0) |
+| 10/28 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 3. What Is Quantum?](https://learn.qiskit.org/course/introduction/what-is-quantum#what-5-0) |
+| 11/18 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 4. Describing Quantum Computers](https://learn.qiskit.org/course/introduction/describing-quantum-computers) |
+| 11/18 | Meeting to discuss Qiskit Textbook. Introduction Course - [Chapter 5. Entangled States](https://learn.qiskit.org/course/introduction/entangled-states) |
+
 
 
 # Resources
